@@ -16,3 +16,4 @@ JavaScript
 CSS
 
 🛠️Live Link:
+https://random-quote-generator-jet-sigma.vercel.app/
