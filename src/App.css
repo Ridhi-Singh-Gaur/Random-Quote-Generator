@@ -1,0 +1,14 @@
+*{
+  text-align:center;
+}
+.color-change {
+  animation: colorShift 3s infinite;
+}
+
+@keyframes colorShift {
+  0% { color: red; }
+  25% { color: blue; }
+  50% { color: green; }
+  75% { color: purple; }
+  100% { color: red; }
+}
